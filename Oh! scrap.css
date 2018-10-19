@@ -1,0 +1,29 @@
+
+body{
+  margin: 0;
+  padding:0;
+}
+#inlineFrameExample2{
+  position: absolute;
+  top: 62px;
+  right: 0px;
+}
+#alignf{
+  position: relative;
+  top: -550px;
+  right: 100px;
+}
+#first_row{
+position: fixed;
+top: -10px;
+height: 70px;
+width: 100%;
+
+z-index: 1}
+.round{
+  border-radius: 50%;
+}
+#placing{
+
+top: 30px;
+}
